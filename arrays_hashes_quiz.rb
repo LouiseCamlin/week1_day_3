@@ -112,4 +112,3 @@ users["Erik"][:home_town] = "Edinburgh"
 users["Erik"][:pets]["Fluffy"] = :dog
 
 # 9. Add yourself to the users hash
-users["Louise"][:twitter] = "lacamlin" [:favourite_numbers] = 2, 8 [:home_town] = "Banbridge" [:pets]["Skeeter"] = :dog
